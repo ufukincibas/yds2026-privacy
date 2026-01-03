@@ -1,39 +1,40 @@
-# YDS2026 - Kolay Soru Çözümleri Gizlilik Politikası
+YDS2026 - Kolay Soru Çözümleri Gizlilik Politikası
+Son Güncelleme Tarihi: 3 Ocak 2026
 
-**Son Güncelleme Tarihi: 22 Ekim 2025**
+Giriş
+"YDS2026 - Kolay Soru Çözümleri" (bundan sonra "Uygulama" olarak anılacaktır), kullanıcıların eğitim amaçlı soru çözümlerine erişmesini sağlayan bir Android uygulamasıdır. Bu Gizlilik Politikası, Uygulama'nın veri toplama, kullanım ve koruma uygulamalarını açıklamaktadır.
 
-## Giriş
+Bu politika, Google Play Geliştirici Dağıtım Anlaşması'na ve uluslararası gizlilik yasalarına (örneğin GDPR, CalOPPA) uygundur.
 
-"YDS2026 - Kolay Soru Çözümleri" (bundan sonra "Uygulama" olarak anılacaktır), kullanıcıların eğitim amaçlı soru çözümlerine erişmesini sağlayan bir Android uygulamasıdır. Bu Gizlilik Politikası, Uygulama'nın veri toplama, kullanım ve koruma uygulamalarını açıklamaktadır. Uygulama, hiçbir kişisel veri (örneğin e-posta adresi, isim-soyisim, konum veya cihaz kimliği gibi bireyi tanımlayabilecek veriler) toplamamaktadır. Tamamen offline çalışmakta olup, veri toplama içermez.
+Üçüncü Taraf Hizmetleri ve Reklamlar
+Uygulama, reklam göstermek ve hizmetin sürekliliğini sağlamak amacıyla Google AdMob reklam ağını kullanmaktadır. Google AdMob, kullanıcılara ilgi alanlarına dayalı reklamlar sunmak ve uygulama performansını analiz etmek amacıyla aşağıdaki verileri anonim olarak toplayabilir:
 
-Bu politika, Google Play Geliştirici Dağıtım Anlaşması'na ve uluslararası gizlilik yasalarına (örneğin CalOPPA, GDPR benzeri) uygundur. Uygulama, 13 yaş altındaki çocuklardan veri toplamamakta olup, COPPA gibi çocuk gizliliği yasalarına tabidir.
+Reklam Kimliği (Advertising ID - AD_ID)
 
-## Toplanan Bilgiler
+Cihaz marka, model ve işletim sistemi bilgileri
 
-Uygulama, hiçbir veri toplamamaktadır. Kişisel veya anonim veriler (cihaz bilgileri, kullanım istatistikleri vb.) dahil edilmez. Çerezler veya benzeri teknolojiler kullanılmaz.
+Yaklaşık konum bilgisi (IP adresi üzerinden)
 
-## Bilgilerin Kullanımı, Paylaşımı ve Depolanması
+Bu veriler Google’ın kendi gizlilik politikası çerçevesinde işlenir.
 
-Hiçbir veri toplanmadığı için kullanım, paylaşım veya depolama söz konusu değildir. Veriler yasal zorunluluk dışında paylaşılmaz.
+Toplanan Bilgiler
+Uygulama, kullanıcıdan doğrudan isim, e-posta veya telefon numarası gibi kişisel veriler toplamaz. Kullanıcıların "Soruyu Kaydet" özelliği ile kaydettiği veriler sadece kullanıcının kendi cihazı üzerinde (yerel depolama) tutulur ve harici bir sunucuya aktarılmaz. Ancak yukarıda belirtilen reklam hizmetleri aracılığıyla anonim kullanım istatistikleri toplanmaktadır.
 
-## Veri Güvenliği
+Bilgilerin Kullanımı, Paylaşımı ve Depolanması
+Toplanan anonim veriler sadece reklamların kişiselleştirilmesi ve uygulama hatalarının takibi için kullanılır. Kişisel verilerinizin satılması veya üçüncü şahıslarla reklam amacı dışında paylaşılması söz konusu değildir.
 
-Uygulama, kullanıcı verisi içermediği için ekstra güvenlik önlemleri alınmıştır, ancak genel cihaz güvenliği önerilir.
+Veri Güvenliği
+Uygulama içindeki yerel verileriniz cihazınızın güvenli saklama alanlarında tutulur. Reklam ağları üzerinden aktarılan veriler ise modern şifreleme yöntemleri ile korunmaktadır.
 
-## Kullanıcı Hakları
+Çocukların Gizliliği
+Uygulama, 13 yaş altındaki çocuklardan bilerek kişisel veri toplamamaktadır ve COPPA gibi çocuk gizliliği yasalarına uygun hareket eder. Eğer bir ebeveyn veri paylaşıldığını fark ederse bizimle iletişime geçebilir.
 
-Kullanıcılar, herhangi bir veri tutulmadığı için erişim veya silme talebinde bulunmaya gerek duymaz.
+Değişiklikler
+Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler yapıldığında "Son Güncelleme Tarihi" güncellenerek uygulama içinden veya Google Play sayfasından bildirilir.
 
-## Çocukların Gizliliği
+İletişim
+Sorularınız ve geri bildirimleriniz için:
 
-Uygulama, 13 yaş altındakilerden veri toplamamakta ve ebeveyn onayı gerektirmez.
+E-posta: [fkcreating@gmail.com]
 
-## Değişiklikler
-
-Politika değişirse, Uygulama içinde veya Google Play sayfasında bildirilir.
-
-## İletişim
-
-Sorular için: [fkcreating@gmail.com]. instagram: [fkcreating].
-
-Politika, Google Play mağaza sayfasında erişilebilir.
+Instagram: [fkcreating]
